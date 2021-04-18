@@ -1,3 +1,3 @@
 def calc(a,b):
-    sub = a-b
+    mult = a*b
     #print(mult)
